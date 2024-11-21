@@ -1,0 +1,7 @@
+setup.py
+setuppaths/__init__.py
+setuppaths/setuppaths.py
+setuppaths.egg-info/PKG-INFO
+setuppaths.egg-info/SOURCES.txt
+setuppaths.egg-info/dependency_links.txt
+setuppaths.egg-info/top_level.txt
